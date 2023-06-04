@@ -15,6 +15,7 @@ import java.util.Optional;
 
 import javax.validation.Valid;
 
+@CrossOrigin(origins = "https://dashboard.whatabyte.app")
 @RestController
 @RequestMapping("api/menu/items")  // ensures all the endpoints share the same resource path
 
