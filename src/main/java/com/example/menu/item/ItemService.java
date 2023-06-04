@@ -27,7 +27,7 @@ public class ItemService {
         return List.of(
                 new Item(1L, "Burger", 599L, "Tasty", "https://s3-media0.fl.yelpcdn.com/bphoto/P_CmLdKIqL3zl5RrQtSv0g/348s.jpg"),
                 new Item(2L, "Pizza", 299L, "Cheesy", "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/bhcgpkjt/9c03b953-1de2-48c0-963e-38a63de810df.jpg"),
-                new Item( 3L, "Tea", 199L, "Informative", "https://www.verywellhealth.com/thmb/wOpYMxG1V_VxYcp4iJRmxRO4lZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-693893647-588d21e413dd411cb1f2b0a0ea3e02da.jpg")
+                new Item( 3L, "Tea", 199L, "Informative", "https://upload.wikimedia.org/wikipedia/commons/d/d3/Longjing_tea_steeping_in_gaiwan.jpg")
         );
     }
 
