@@ -1,5 +1,5 @@
 
-# Introduction - Current Ongoing Project!
+# Introduction
 A restaurant menu CRUD app with an API and security functions. This project was created for me to learn how to create an API, practice using it's functions, and further learn how to create my own with my own websites or apps.
 
 This API communicates with a given website that holds a resteraunt menu. The website is a CRUD app, allowing users to create menu items, change items, and delete items. The website also shows given menu items from the base code. 
